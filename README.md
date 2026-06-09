@@ -138,7 +138,7 @@ This mirrors real-world OMR: only a single, fully-filled correct bubble counts. 
 ## 👥 Team
 
 | Name | Contribution |
-|---|---|---|
+|---|---|
 | **Joyonta Debnath** | Hardware implementation, testing & debugging |
 | **Md. Maksudur Rahman Turzo** | Theory, Proteus simulation, hardware, testing |
 | **Ahamad Abtahi** | Hardware, components, testing, presentation |
