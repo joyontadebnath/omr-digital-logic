@@ -1,0 +1,22 @@
+# Proteus auto-generated backup files
+*.DBK
+*.pdsbak
+
+# Proteus lock files (created when a project is open)
+*.ldb
+
+# Proteus log and temp files
+*.log
+*.tmp
+
+# Windows thumbnail cache
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+._*
+
+# Proteus simulation output files
+*.pwi
+*.prj.bak
